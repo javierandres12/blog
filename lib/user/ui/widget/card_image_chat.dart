@@ -22,6 +22,8 @@ class CardImageChat extends StatelessWidget{
     double screenWidht = MediaQuery.of(context).size.width;
     // TODO: implement build
 
+    // se cmabio aca esta vuelta jajajaj
+
     return InkWell(
         onTap: onPressed,
         child: Container(
